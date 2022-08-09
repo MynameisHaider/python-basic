@@ -1,0 +1,5 @@
+this is first line
+this is second line
+this is thrid line
+this is fourth line written by using file object
+this is fifth line written by using file object
